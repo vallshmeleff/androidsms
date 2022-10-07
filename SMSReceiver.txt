@@ -12,6 +12,8 @@ import android.util.Log;
 //==================================================
 //
 // Receiving SMS messages. Android 10 Java Class
+// Sends SMS. Requires you to select an application on your smartphone to send
+// This is not always convenient. Let's make another Java code for sending SMS
 // Valery Shmelev (Oflameron)
 //
 //==================================================
